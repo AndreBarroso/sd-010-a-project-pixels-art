@@ -16,7 +16,7 @@ O maior desafio desse projeto, ficou por conta da lógica de programação para 
 ## Instruções para executar o projeto em seu próprio computador
 
 
-1. Abra o terminal, acesse o diretório de sua prefeência onde 
+1. Abra o terminal, acesse o diretório de sua preferência onde 
 você deseja fazer o download e crie uma pasta com o comando **mkdir**:
 ```bash
 mkdir projeto-andre
