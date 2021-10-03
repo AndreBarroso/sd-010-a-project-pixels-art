@@ -1,8 +1,8 @@
 # Boas vindas ao repositório do projeto Arte com Pixels!
-Esse trabalho tinha o objetivo de implementar uma página web que contém uma paleta de cores funcional que pode ser utilizada para criar desenhos em pixels. 
-Com esse projeto pude praticar a integração de HTML, CSS e JS.
+Esse trabalho tinha o objetivo de implementar uma página web com uma paleta de cores funcional, que podesse ser utilizada para criar desenhos em pixels. 
+Pude praticar aqui, a integração de HTML, CSS e JS.
 
-O maior desafio desse projeto, ficou por conta da lógica de programação para manipular o CSS por meio de JavaScript para colorir os pixels e gerar suas distribuições no formato correto de acordo com a entrada do usuário. Aqui reforcei muito meu entendimento quanto a manipulação do DOM por meio do JavaScript.
+O maior desafio desse projeto, ficou por conta da lógica de programação para manipular o CSS por meio de JavaScript. A partir dessa manipulação deveria-se colorir os pixels e gerar suas distribuições no formato correto de acordo com a entrada do usuário. Aqui, reforcei muito meu entendimento quanto a manipulação do DOM por meio do JavaScript.
 
 ---
 
