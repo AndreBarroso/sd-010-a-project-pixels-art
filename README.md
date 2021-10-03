@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto Lista de Tarefas!
+# Boas vindas ao repositório do projeto Arte com Pixels!
 Esse trabalho tinha o objetivo de implementar uma página web que contém uma paleta de cores funcional que pode ser utilizada para criar desenhos em pixels. 
 Com esse projeto pude praticar a integração de HTML, CSS e JS.
 
